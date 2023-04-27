@@ -1,4 +1,4 @@
-# Overall CGGA Level_Split Comaprison
+# Overall CGGA Level_Split Comparison
 
 library(tidyverse)
 library(edgeR)

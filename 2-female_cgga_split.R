@@ -1,4 +1,4 @@
-# Overall CGGA Level_Split Comaprison
+# Female CGGA Level_Split Comparison
 
 library(tidyverse)
 library(edgeR)
